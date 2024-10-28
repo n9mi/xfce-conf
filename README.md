@@ -30,7 +30,7 @@ I used [Kora](https://www.xfce-look.org/p/1256209/)
 - Arrange panel items to be like this:
   <img src="https://github.com/n9mi/xfce-conf/blob/master/panel/panel_preference.png?raw=true" alt="Panel item">
 - For panel styling, I modificate from this [xfce-rice theme](https://github.com/diws1/xfce-rice).
-- Rewrite .config/gtk-3.0/gtk.css as [gtk.css](https://github.com/n9mi/xfce-conf/blob/main/gtk.css).
+- Rewrite .config/gtk-3.0/gtk.css as [gtk.css](https://github.com/n9mi/xfce-conf/blob/master/gtk.css).
 
 ## Terminal
 - Font: JetBrains Mono ExtraLight - 12
@@ -41,7 +41,7 @@ I used [Kora](https://www.xfce-look.org/p/1256209/)
 ```
 sudo apt install conky-all
 ```
-Rewrite /etc/conky/conky.conf as [conky.conf](https://github.com/n9mi/xfce-conf/blob/main/conky.conf)
+Rewrite /etc/conky/conky.conf as [conky.conf](https://github.com/n9mi/xfce-conf/blob/master/conky.conf)
 
 ## Wallpaper
 ```

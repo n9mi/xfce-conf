@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b204be54-b2f6-4110-b164-eb1d69d5a6ea)# xfce-theme
+# xfce-conf
 xfce configuration for my personal device. it's a desperate attempt to replicate something just like [this](https://payload.cargocollective.com/1/17/564825/8876514/monitor_screens_006_901.jpg) and [this](https://payload.cargocollective.com/1/17/564825/8876514/monitor_screens_016_901.jpg).
 
 ## Copy theme and icons
